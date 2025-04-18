@@ -10,13 +10,13 @@
   <!-- Stats a la izquierda -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=Alphexnom&show_icons=true&count_private=true&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff"
-    width="550px"
+    width="500px"
     alt="Alphexnom GitHub Stats"
   />
   <!-- GIF empujado al extremo derecho -->
   <img
     src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=ecf05e47v3v5rm1n3nidkkuxsfpk641nurcndigu56blxjqp&ep=v1_gifs_related&rid=giphy.gif&ct=g"
-    width="300px"
+    width="295px"
     alt="Reality Program GIF"
     style="margin-left: auto;"
   />
