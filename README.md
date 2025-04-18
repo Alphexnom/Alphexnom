@@ -16,7 +16,7 @@
   <!-- GIF empujado al extremo derecho -->
   <img
     src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=ecf05e47v3v5rm1n3nidkkuxsfpk641nurcndigu56blxjqp&ep=v1_gifs_related&rid=giphy.gif&ct=g"
-    width="290px"
+    width="300px"
     alt="Reality Program GIF"
     style="margin-left: auto;"
   />
