@@ -24,7 +24,7 @@
 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphexnom&bg_color=ffffff&color=8B0000&line=8B0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ### Main skills:
 ![Cybersecurity Analyst](https://img.shields.io/badge/-Cybersecurity%20Analyst-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
@@ -53,6 +53,7 @@
 ![TheHive](https://img.shields.io/badge/-TheHive-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
 ![Cortex](https://img.shields.io/badge/-Cortex-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
 
-  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphexnom&bg_color=ffffff&color=8B0000&line=8B0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
