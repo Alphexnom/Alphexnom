@@ -83,10 +83,6 @@
 
 ---
 
-<a href="https://github.com/sponsors/Alphexnom">
-  <img src="https://img.shields.io/badge/Sponsor-me-purple?style=for-the-badge&logo=github" alt="Sponsor">
-</a>
-
 
 
 ## 📫 Contáctame
