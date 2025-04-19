@@ -6,54 +6,92 @@
 </p>
 
 
-<div style="display: flex; align-items: center; width: 100%;">
-  <!-- Stats a la izquierda -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <!-- Stats -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Alphexnom&show_icons=true&count_private=true&hide_border=true&title_color=4C86C8&icon_color=000000&text_color=000000&bg_color=ffffff"
-    width="500px"
+    src="https://github-readme-stats.vercel.app/api?username=Alphexnom&show_icons=true&count_private=true&hide_border=true&title_color=4C86C8&icon_color=4C86C8&text_color=000000&bg_color=ffffff"
+    width="460px"
     alt="Alphexnom GitHub Stats"
   />
-  <!-- GIF empujado al extremo derecho -->
+  <!-- GIF -->
   <img
     src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=ecf05e47v3v5rm1n3nidkkuxsfpk641nurcndigu56blxjqp&ep=v1_gifs_related&rid=giphy.gif&ct=g"
-    width="295px"
+    width="300px"
     alt="Reality Program GIF"
-    style="margin-left: auto;"
+    style="margin-left: 20px;"
   />
 </div>
 
+---
+
+### 🛡️ Main skills:
+
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/Cybersecurity%20Analyst-000000?style=for-the-badge"
+    alt="Cybersecurity Analyst"
+  />
+  <img
+    src="https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge"
+    alt="Penetration Testing"
+  />
+  <img
+    src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge"
+    alt="Ethical Hacking"
+  />
+  <img
+    src="https://img.shields.io/badge/Incident%20Response-000000?style=for-the-badge"
+    alt="Incident Response"
+  />
+  <img
+    src="https://img.shields.io/badge/Malware%20Analysis-000000?style=for-the-badge"
+    alt="Malware Analysis"
+  />
+  <img
+    src="https://img.shields.io/badge/Firewall%20Management-000000?style=for-the-badge"
+    alt="Firewall Management"
+  />
+  <img
+    src="https://img.shields.io/badge/SIEM%20Tools-000000?style=for-the-badge"
+    alt="SIEM Tools"
+  />
+  <img
+    src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge"
+    alt="Network Security"
+  />
+</p>
+
+
+
+---
+
+## 🚀 Proyectos Destacados
+
+| Proyecto                                 | Descripción                                                        | Tech Stack             | Enlace                   |
+|------------------------------------------|--------------------------------------------------------------------|------------------------|--------------------------|
+| **Montaje de SOC en Proxmox**            | Montaje de un SOC completo sobre plataforma Proxmox                | Proxmox, Linux, VMs    | 🔜 _Próximamente_        |
+| **Reglas e implementación en Wazuh**     | Desarrollo de reglas e implementación de Wazuh para detección de amenazas | Wazuh, Elasticsearch   | 🔜 _Próximamente_        |
+| **Splunk**     | Implementación de Splunk para monitoreo y respuesta a incidentes   | Splunk Enterprise      | 🔜 _Próximamente_        |
+
+
+---
+
+## 📈 Actividad
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphexnom&bg_color=ffffff&color=4C86C8&line=4C86C8&point=4C86C8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📫 Contáctame
+
+- ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
+- 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
 
 
 
 
-### Main skills:
-![Cybersecurity Analyst](https://img.shields.io/badge/-Cybersecurity%20Analyst-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Incident Response](https://img.shields.io/badge/-Incident%20Response-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Firewall Management](https://img.shields.io/badge/-Firewall%20Management-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![SIEM (Security Information and Event Management)](https://img.shields.io/badge/-SIEM%20Tools-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Network Security](https://img.shields.io/badge/-Network%20Security-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
+
+
 
 
  
-### Tools:
-![Wazuh](https://img.shields.io/badge/-Wazuh-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Suricata](https://img.shields.io/badge/-Suricata-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Snort](https://img.shields.io/badge/-Snort-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Ossec](https://img.shields.io/badge/-OSSEC-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Bro/Zeek](https://img.shields.io/badge/-Zeek-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Kibana](https://img.shields.io/badge/-Kibana-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Graylog](https://img.shields.io/badge/-Graylog-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![OpenDLP](https://img.shields.io/badge/-OpenDLP-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Metasploit Framework](https://img.shields.io/badge/-Metasploit%20Framework-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Security Onion](https://img.shields.io/badge/-Security%20Onion-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![TheHive](https://img.shields.io/badge/-TheHive-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-![Cortex](https://img.shields.io/badge/-Cortex-ffffff?style=for-the-badge&labelColor=ffffff&textColor=000000)&nbsp;
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alphexnom&bg_color=ffffff&color=8B0000&line=8B0000&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
