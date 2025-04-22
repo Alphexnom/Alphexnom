@@ -73,7 +73,7 @@
 | **Montaje de SOC en Proxmox**            | Montaje de un SOC completo sobre plataforma Proxmox                | Proxmox, Linux, VMs    | 🔜 _Próximamente_        |
 | **Reglas e implementación en Wazuh**     | Desarrollo de reglas e implementación de Wazuh para detección de amenazas | Wazuh, Elasticsearch   | 🔜 _Próximamente_        |
 | **Splunk**     | Implementación de Splunk para monitoreo y respuesta a incidentes   | Splunk Enterprise      | 🔜 _Próximamente_        |
-| **Regla Sysmon para Wazuh**            | Detectan actividades sospechosas en Windows y generan alertas. | Wazuh | 🔜 [Repositorio](https://github.com/Alphexnom/Reglas-Wazuh.git) |
+| **Regla Sysmon para Wazuh**            | Detectan actividades sospechosas en Windows y generan alertas. | Wazuh | [Repositorio](https://github.com/Alphexnom/Reglas-Wazuh.git) |
 
 ---
 
