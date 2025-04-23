@@ -1,11 +1,24 @@
-<p>
+ <img
+    src="https://img.shields.io/badge/SIEM%20Tools-000000?style=for-the-badge"
+    alt="SIEM Tools"
+  />
+  <img
+    src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge"
+    alt="Network Security"
+  />
+</p>
+
+
+<p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?color=6099F5&background=000000&size=35&center=true&vCenter=true&width=950&height=80&lines=%3E+Let's+Defend;%3E+Stay+Safe;%3E+Beyond+the+Limit;%3E+Hunt+the+threats;%3E+Stay+one+step+ahead"
     alt="Typing SVG con texto verde sobre fondo negro"
   />
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <!-- Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=Alphexnom&show_icons=true&count_private=true&hide_border=true&title_color=4C86C8&icon_color=4C86C8&text_color=000000&bg_color=ffffff"
@@ -13,7 +26,7 @@
     alt="Alphexnom GitHub Stats"
   />
   <!-- GIF -->
-</div>
+
 
 ---
 
@@ -44,16 +57,6 @@
     src="https://img.shields.io/badge/Firewall%20Management-000000?style=for-the-badge"
     alt="Firewall Management"
   />
-  <img
-    src="https://img.shields.io/badge/SIEM%20Tools-000000?style=for-the-badge"
-    alt="SIEM Tools"
-  />
-  <img
-    src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge"
-    alt="Network Security"
-  />
-</p>
-
 ---
 
 ## 🚀 Proyectos destacados
@@ -73,16 +76,18 @@
 
 ---
 
+
+
 ## 📫 Contáctame
 
-<p align="left">
-  - ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
-  - 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
-</p>
+- ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
+- 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
+
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Alphexnom&style=flat-square" alt="Vistas en perfil" />
 </p>
+
 
 
  
