@@ -1,14 +1,3 @@
- <img
-    src="https://img.shields.io/badge/SIEM%20Tools-000000?style=for-the-badge"
-    alt="SIEM Tools"
-  />
-  <img
-    src="https://img.shields.io/badge/Network%20Security-000000?style=for-the-badge"
-    alt="Network Security"
-  />
-</p>
-
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com/?color=6099F5&background=000000&size=35&center=true&vCenter=true&width=950&height=80&lines=%3E+Let's+Defend;%3E+Stay+Safe;%3E+Beyond+the+Limit;%3E+Hunt+the+threats;%3E+Stay+one+step+ahead"
@@ -78,10 +67,13 @@
 
 
 
-## 📫 Contáctame
+## 📫 <p align="center">Contáctame</p>
 
-- ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
-- 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
+<p align="left">
+  - ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
+  - 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
+</p>
+
 
 
 <p align="right">
