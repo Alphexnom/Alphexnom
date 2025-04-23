@@ -70,10 +70,10 @@
 ## 📫 <p align="center">Contáctame</p>
 
 <p align="left">
-  - ✉️ <a href="mailto:4lph3xsec@gmail.com">4lph3xsec@gmail.com</a>  
+  ✉️ <a href="mailto:4lph3xsec@gmail.com">4lph3xsec@gmail.com</a>  
 </p>
 <p align="left">
-  - 🔗 <a href="https://www.linkedin.com/in/henriquealvesc/">henriquealvesc</a>  
+  🔗 <a href="https://www.linkedin.com/in/henriquealvesc/">henriquealvesc</a>  
 </p>
 
 
