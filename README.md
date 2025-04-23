@@ -6,7 +6,6 @@
 </p>
 
 
-
 <div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
   <!-- Stats -->
   <img
@@ -46,7 +45,7 @@
     src="https://img.shields.io/badge/Firewall%20Management-000000?style=for-the-badge"
     alt="Firewall Management"
   />
----
+
 
 ## 🚀 Proyectos destacados
 
@@ -66,7 +65,6 @@
 ---
 
 
-
 ## 📫 <p align="center">Contáctame</p>
 
 <p align="left">
@@ -75,8 +73,6 @@
 <p align="left">
   🔗 <a href="https://www.linkedin.com/in/henriquealvesc/">henriquealvesc</a>  
 </p>
-
-
 
 
 <p align="right">
