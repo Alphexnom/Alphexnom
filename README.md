@@ -70,9 +70,12 @@
 ## 📫 <p align="center">Contáctame</p>
 
 <p align="left">
-  - ✉️ Email: [4lph3xsec@gmail.com](mailto:4lph3xsec@gmail.com)  
-  - 🔗 LinkedIn: [henriquealvesc](https://www.linkedin.com/in/henriquealvesc/)  
+  - ✉️ <a href="mailto:4lph3xsec@gmail.com">4lph3xsec@gmail.com</a>  
 </p>
+<p align="left">
+  - 🔗 <a href="https://www.linkedin.com/in/henriquealvesc/">henriquealvesc</a>  
+</p>
+
 
 
 
