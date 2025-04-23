@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?color=00FF00&background=000000&size=35&center=true&vCenter=true&width=950&height=80&lines=%3E+Let's+Defend;%3E+Stay+Safe;%3E+Beyond+the+Limit;%3E+Hunt+the+threats;%3E+Stay+one+step+ahead"
+    src="https://readme-typing-svg.herokuapp.com/?color=1A6AF4&background=000000&size=35&center=true&vCenter=true&width=950&height=80&lines=%3E+Let's+Defend;%3E+Stay+Safe;%3E+Beyond+the+Limit;%3E+Hunt+the+threats;%3E+Stay+one+step+ahead"
     alt="Typing SVG con texto verde sobre fondo negro"
   />
 </p>
