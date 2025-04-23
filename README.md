@@ -15,13 +15,7 @@
     alt="Alphexnom GitHub Stats"
   />
   <!-- GIF -->
-  <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmZmajkzemxlNTg2anFsdmxnNWNmNmQwNnRrZWo5cHBtODNpYXB4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFLB1pCmhgvIDSJTvp/giphy.gif"
-    width="175px"
-    alt="Reality Program GIF"
-    style="margin-left: 20px;"
-  />
-</div>
+
 
 ---
 
