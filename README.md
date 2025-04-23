@@ -18,7 +18,7 @@
 
 ---
 
-### 🛡️ Main skills:
+### 🛡️ Main skills
 
 <p align="left">
   <img
